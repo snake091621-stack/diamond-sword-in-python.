@@ -1,5 +1,5 @@
 # diamond sword in python.
-diamond in python 
+diamond sword in python 
 
 This program will draw a diamond sowrd for you.
 
